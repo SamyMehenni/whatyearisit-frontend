@@ -4,4 +4,4 @@ fetch("https://whatyearisit-backend-rils.vercel.app/")
     console.log(data)
     document.querySelector("#year").textContent =  data.year
 
-})
+}) //comment
